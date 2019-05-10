@@ -1,0 +1,18 @@
+Projet1Dao -> src/main/resources -> data.sql
+
+WSRecettesSaisonnalite
+pom.xml					-> accès mysql
+fr.afcepf.al33.entity   -> ajout base recette
+fr.afcepf.al33.rest     -> PublicDeviseRestCtrl
+src.main.resources      -> image: photos recettes
+                           application.properties: accès mysql
+                           import.sql: chargement base
+						   
+WSclient
+Java Resources -> src/main/java 
+-> fr.afcepf.al33.client	-> TestAppelWsSoapEtRestApp.java  
+-> fr.afcepf.al33.delegate  -> DeviseDelegate.java
+                               DeviseDelegateRest.java
+
+CITRON
+catalogueClient.xhtml							   

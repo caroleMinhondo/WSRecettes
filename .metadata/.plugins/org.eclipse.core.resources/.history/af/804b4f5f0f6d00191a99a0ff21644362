@@ -1,0 +1,6 @@
+pom.xml
+fr.afcepf.al33.entity   -> ajout base recette
+fr.afcepf.al33.rest     -> PublicDeviseRestCtrl
+src.main.resources      -> image
+                           application.properties
+                           import.sql
